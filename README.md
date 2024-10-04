@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, my name is Berra 👋
 
-<!--
-**berravc1/berravc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile! ✨
 
-Here are some ideas to get you started:
+Here’s a bit about my background:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Bachelor's degree in Computer Engineering
+
+👩‍💻 Currently working as an R&D Engineer on an exciting software project
+
+🔬 Exploring the intersection of AI, Machine Learning, and Natural Language Processing in my master's studies
+
+📊 Former Data Analyst and Business Intelligence Intern
