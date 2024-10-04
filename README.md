@@ -10,4 +10,4 @@ Here’s a bit about my background:
 
 🔬 Exploring the intersection of AI, Machine Learning, and Natural Language Processing in my master's studies
 
-📊 Former Data Analyst and Business Intelligence Intern
+📊 Former Data Analyst and Business Intelligence Developer
