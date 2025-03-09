@@ -6,8 +6,8 @@ Here’s a bit about my background:
 
 🎓 Bachelor's degree in Computer Engineering
 
-👩‍💻 Currently working as an R&D Engineer on an exciting software project
+🔬 Exploring the intersection of AI, Machine Learning, and Natural Language Processing in my master's studies as a Research Assistant in the Computer Engineering department
 
-🔬 Exploring the intersection of AI, Machine Learning, and Natural Language Processing in my master's studies
+👩‍💻 Worked as an R&D Engineer on an exciting software project for 10 months
 
 📊 Former Data Analyst and Business Intelligence Developer
